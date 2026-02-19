@@ -1,0 +1,5 @@
+A arquitetura de microserviços permite escala independente de componentes.
+O teste unitário foca na menor unidade de código derivável.
+CI/CD (Integração e Entrega Contínua) acelera o feedback para o desenvolvedor.
+O padrão Observer é usado para notificar mudanças de estado em objetos dependentes.
+Refatoração é o processo de melhorar o código interno sem alterar o comportamento externo.
